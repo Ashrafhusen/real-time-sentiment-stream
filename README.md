@@ -59,4 +59,6 @@ A production-grade real-time data pipeline for ingesting customer reviews, perfo
 
 - Elastic ingest pipeline enriches reviews with business metadata.'
 
+## 🧠 Architecture Diagram
 
+![Architecture Diagram](diagram-export-8-2-2025-10_04_04-PM.png)
